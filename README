@@ -1,0 +1,10 @@
+Calculadora de Sergio_jks
+-------------------------
+
+Instrucciones:
+- Ejecuta "calculator.py"
+- Escribe en terminal un numero y pulsa enter <¬
+- Escribe un operador (+/-/*/÷) y pulsa enter <¬ # para división "/"
+- Escribe otro número en terminal y pulsa enter <¬
+- Así aparece tu resultado (= X)
+- Vuelta a empezar
