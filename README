@@ -7,4 +7,9 @@ Instrucciones:
 - Escribe un operador (+/-/*/÷) y pulsa enter <¬ # para división "/"
 - Escribe otro número en terminal y pulsa enter <¬
 - Así aparece tu resultado (= X)
+- Si utilizar el resultado para la siguiente operación:
+    escribe "r" y pulsa enter <¬
 - Vuelta a empezar
+
+- Si quieres reiniciar, en cualquier momento:
+    escribe "n" y pulsa enter <¬
